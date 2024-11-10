@@ -1,4 +1,5 @@
 Do you need a software developer who loves building bridges between ideas and technology? 
+
 Bòóni👋 I'm Adebayo, I specialize in turning complex problems into streamlined, user-friendly solutions, crafting code that’s both efficient and adaptable.
 
 I build with JavaScript/Typescript, React, NextJS, TailwindCSS, Redux, Zustand, Python, Rust, Django, Flask, FastAPI, CSS/SASS/LESS, MongoDB, Postgresql, Git, Github, Gitlab, Linux.
