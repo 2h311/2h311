@@ -10,6 +10,6 @@ I build with JavaScript/Typescript, React, NextJS, TailwindCSS, Redux, Zustand, 
 
 [My resume](https://www.dropbox.com/scl/fi/vmy50ee5natztxvgjvqww/Adebayo_Olasunkanmi_Resume.pdf?rlkey=sm16nhy5d40aro1jkzipx8w6n&st=91df9vbk&dl=0) offers a deeper look into my skills,experience, and the value I can add to your team.
 
-- 📫 You can reach me via [Mobile Number](+2349064302078) | [Email](abeebbade@gmail.com) | [LinkedIn](https://www.linkedin.com/in/shelldevme/)
+- 📫 You can reach me via [Email](abeebbade@gmail.com) | [LinkedIn](https://www.linkedin.com/in/shelldevme/) | [Whatsapp](https://wa.link/c4ij1u) 
 
 Check out my pinned projects.
